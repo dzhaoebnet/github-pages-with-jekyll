@@ -1,5 +1,3 @@
 ---
-title: "Welcome to my blog"
+title: "David Zhao's APCSA Final Project"
 ---
-
-I'm glad you are here. I plan to talk about ...
