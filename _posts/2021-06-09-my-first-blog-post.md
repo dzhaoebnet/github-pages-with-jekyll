@@ -1,5 +1,5 @@
 ---
-title: "David Zhao's APCSA Final Project"
+title: "David Zhao's First Blog Post"
 date: 2021-06-09
 ---
 
