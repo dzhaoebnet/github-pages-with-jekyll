@@ -3,13 +3,13 @@ title: "David Zhao's APCSA Final Project"
 date: 2021-06-09
 ---
 
-Name: David Zhao \
+Name: David Zhao 
 
 Picture: \
-![image](https://github.com/dzhaoebnet/github-pages-with-jekyll/blob/main/img1.jfif?raw=true) \
+![image](https://github.com/dzhaoebnet/github-pages-with-jekyll/blob/main/img1.jfif?raw=true) 
 
 Social Media: \
-Instagram: https://www.instagram.com/dzhao0488/ \
+Instagram: https://www.instagram.com/dzhao0488/ 
 
 Brag Sheet: 
   1. Science Olympiad (2017-2020) 
